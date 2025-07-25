@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>io.github.go-acoustic</groupId>
+  <artifactId>tealeaf</artifactId>
+  <versioning>
+    <latest>10.4.17</latest>
+    <release>10.4.17</release>
+    <versions>
+      <version>unspecified</version>
+      <version>10.4.16</version>
+      <version>10.4.17</version>
+    </versions>
+    <lastUpdated>20250725220045</lastUpdated>
+  </versioning>
+</metadata>

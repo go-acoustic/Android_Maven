@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>io.github.go-acoustic</groupId>
+  <artifactId>acoustic-mobile-push-android-sdk</artifactId>
+  <version>3.10.91</version>
+  <packaging>aar</packaging>
+  <name>acoustic-mobile-push-android-sdk</name>
+  <description>acoustic-mobile-push-android-sdk</description>
+  <url>https://github.com/go-acoustic/Acoustic-Mobile-Push-Android</url>
+  <licenses>
+    <license>
+      <name>Acoustic License for Non-Warranted Programs</name>
+      <url>https://github.com/go-acoustic/Acoustic-Mobile-Push-Android/blob/master/docs/license/license.txt</url>
+    </license>
+  </licenses>
+  <developers>
+    <developer>
+      <id>cyangibm</id>
+      <name>Changjie Yang</name>
+      <email>changjie.yang@acoustic.co</email>
+    </developer>
+    <developer>
+      <id>ohernandezIBM</id>
+      <name>Omar Hernandez</name>
+      <email>Omar.Hernandez@acoustic.co</email>
+    </developer>
+  </developers>
+  <scm>
+    <connection>scm:git@github.com:Acoustic-Mobile-Push/Android.git</connection>
+    <developerConnection>scm:git@github.com:Acoustic-Mobile-Push/Android.git</developerConnection>
+    <url>https://github.com/go-acoustic/Acoustic-Mobile-Push-Android.git</url>
+  </scm>
+</project>

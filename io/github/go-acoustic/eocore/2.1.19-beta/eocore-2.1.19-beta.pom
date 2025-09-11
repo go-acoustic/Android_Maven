@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>io.github.go-acoustic</groupId>
+  <artifactId>eocore</artifactId>
+  <version>2.1.19-beta</version>
+  <packaging>aar</packaging>
+  <name>eocore</name>
+  <description>EOCore Module</description>
+  <url>https://github.com/go-acoustic/Android_Maven</url>
+  <licenses>
+    <license>
+      <name>Acoustic License for Non-Warranted Programs</name>
+      <url>https://github.com/go-acoustic/Android_Maven/blob/master/Licenses/License</url>
+    </license>
+  </licenses>
+  <developers>
+    <developer>
+      <id>cyangibm</id>
+      <name>Changjie Yang</name>
+      <email>changjie.yang@acoustic.co</email>
+    </developer>
+    <developer>
+      <id>ohernandezIBM</id>
+      <name>Omar Hernandez</name>
+      <email>Omar.Hernandez@acoustic.co</email>
+    </developer>
+  </developers>
+  <scm>
+    <connection>scm:git@github.com:go-acoustic/Android_Maven.git</connection>
+    <developerConnection>scm:git@github.com:go-acoustic/Android_Maven.git</developerConnection>
+    <url>https://github.com/go-acoustic/Android_Maven.git</url>
+  </scm>
+  <dependencies>
+    <dependency>
+      <groupId>androidx.appcompat</groupId>
+      <artifactId>appcompat</artifactId>
+      <version>1.6.0</version>
+    </dependency>
+    <dependency>
+      <groupId>com.google.android.gms</groupId>
+      <artifactId>play-services-ads-identifier</artifactId>
+      <version>18.0.1</version>
+    </dependency>
+    <dependency>
+      <groupId>androidx.core</groupId>
+      <artifactId>core-ktx</artifactId>
+      <version>1.7.0</version>
+    </dependency>
+    <dependency>
+      <groupId>org.jetbrains.kotlin</groupId>
+      <artifactId>kotlin-stdlib</artifactId>
+      <version>1.6.0</version>
+    </dependency>
+  </dependencies>
+</project>

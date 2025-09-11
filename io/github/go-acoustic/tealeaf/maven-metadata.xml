@@ -3,13 +3,14 @@
   <groupId>io.github.go-acoustic</groupId>
   <artifactId>tealeaf</artifactId>
   <versioning>
-    <latest>10.4.17</latest>
-    <release>10.4.17</release>
+    <latest>10.4.18-beta</latest>
+    <release>10.4.18-beta</release>
     <versions>
       <version>unspecified</version>
       <version>10.4.16</version>
       <version>10.4.17</version>
+      <version>10.4.18-beta</version>
     </versions>
-    <lastUpdated>20250725220045</lastUpdated>
+    <lastUpdated>20250911042930</lastUpdated>
   </versioning>
 </metadata>

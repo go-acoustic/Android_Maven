@@ -3,14 +3,15 @@
   <groupId>io.github.go-acoustic</groupId>
   <artifactId>connect</artifactId>
   <versioning>
-    <latest>10.4.65</latest>
-    <release>10.4.65</release>
+    <latest>10.4.66-beta</latest>
+    <release>10.4.66-beta</release>
     <versions>
       <version>unspecified</version>
       <version>10.4.63</version>
       <version>10.4.64</version>
       <version>10.4.65</version>
+      <version>10.4.66-beta</version>
     </versions>
-    <lastUpdated>20250726034642</lastUpdated>
+    <lastUpdated>20250911042638</lastUpdated>
   </versioning>
 </metadata>

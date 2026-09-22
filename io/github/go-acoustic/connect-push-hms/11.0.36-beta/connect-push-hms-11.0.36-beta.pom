@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>io.github.go-acoustic</groupId>
+  <artifactId>connect-push-hms</artifactId>
+  <version>11.0.36-beta</version>
+  <packaging>aar</packaging>
+  <name>connect-push-hms</name>
+  <description>Acoustic Connect – Huawei Mobile Services (HMS) push support (connect-push-hms)</description>
+  <url>https://github.com/go-acoustic/Android_Maven</url>
+  <licenses>
+    <license>
+      <name>Acoustic License for Non-Warranted Programs</name>
+      <url>https://github.com/go-acoustic/Android_Maven/blob/master/Licenses/License</url>
+    </license>
+  </licenses>
+  <developers>
+    <developer>
+      <id>cyangibm</id>
+      <name>Changjie Yang</name>
+      <email>changjie.yang@acoustic.co</email>
+    </developer>
+    <developer>
+      <id>ohernandezIBM</id>
+      <name>Omar Hernandez</name>
+      <email>Omar.Hernandez@acoustic.co</email>
+    </developer>
+  </developers>
+  <scm>
+    <connection>scm:git@github.com:go-acoustic/Android_Maven.git</connection>
+    <developerConnection>scm:git@github.com:go-acoustic/Android_Maven.git</developerConnection>
+    <url>https://github.com/go-acoustic/Android_Maven.git</url>
+  </scm>
+  <dependencies>
+    <dependency>
+      <groupId>io.github.go-acoustic</groupId>
+      <artifactId>connect</artifactId>
+      <version>11.0.36-beta</version>
+    </dependency>
+    <dependency>
+      <groupId>com.huawei.hms</groupId>
+      <artifactId>push</artifactId>
+      <version>6.9.0.300</version>
+    </dependency>
+    <dependency>
+      <groupId>org.jetbrains.kotlin</groupId>
+      <artifactId>kotlin-stdlib</artifactId>
+      <version>1.9.22</version>
+    </dependency>
+  </dependencies>
+</project>

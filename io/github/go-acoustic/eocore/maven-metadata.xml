@@ -3,7 +3,7 @@
   <groupId>io.github.go-acoustic</groupId>
   <artifactId>eocore</artifactId>
   <versioning>
-    <latest>11.0.33-beta</latest>
+    <latest>11.0.34-beta</latest>
     <release>2.1.18</release>
     <versions>
       <version>2.1.17</version>
@@ -13,7 +13,8 @@
       <version>2.1.22-beta</version>
       <version>11.0.32-beta</version>
       <version>11.0.33-beta</version>
+      <version>11.0.34-beta</version>
     </versions>
-    <lastUpdated>20260921131038</lastUpdated>
+    <lastUpdated>20260922084733</lastUpdated>
   </versioning>
 </metadata>

@@ -3,7 +3,7 @@
   <groupId>io.github.go-acoustic</groupId>
   <artifactId>connect-push-hms</artifactId>
   <versioning>
-    <latest>11.0.37-beta</latest>
+    <latest>11.0.38-beta</latest>
     <versions>
       <version>11.0.32-beta</version>
       <version>11.0.33-beta</version>
@@ -11,7 +11,8 @@
       <version>11.0.35-beta</version>
       <version>11.0.36-beta</version>
       <version>11.0.37-beta</version>
+      <version>11.0.38-beta</version>
     </versions>
-    <lastUpdated>20260923145241</lastUpdated>
+    <lastUpdated>20260929101141</lastUpdated>
   </versioning>
 </metadata>

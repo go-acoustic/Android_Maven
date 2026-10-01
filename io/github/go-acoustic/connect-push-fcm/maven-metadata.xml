@@ -3,9 +3,8 @@
   <groupId>io.github.go-acoustic</groupId>
   <artifactId>connect-push-fcm</artifactId>
   <versioning>
-    <latest>11.1.6-beta</latest>
+    <latest>11.1.7-beta</latest>
     <versions>
-      <version>11.0.35-beta</version>
       <version>11.0.36-beta</version>
       <version>11.0.37-beta</version>
       <version>11.0.38-beta</version>
@@ -15,7 +14,8 @@
       <version>11.1.4-beta</version>
       <version>11.1.5-beta</version>
       <version>11.1.6-beta</version>
+      <version>11.1.7-beta</version>
     </versions>
-    <lastUpdated>20260930134729</lastUpdated>
+    <lastUpdated>20261001143724</lastUpdated>
   </versioning>
 </metadata>

@@ -3,7 +3,7 @@
   <groupId>io.github.go-acoustic</groupId>
   <artifactId>acoustic-mobile-push-android-inapp</artifactId>
   <versioning>
-    <latest>3.11.1-beta</latest>
+    <latest>3.11.2-beta</latest>
     <release>3.10.96</release>
     <versions>
       <version>3.10.89</version>
@@ -15,7 +15,8 @@
       <version>3.10.95</version>
       <version>3.10.96</version>
       <version>3.11.1-beta</version>
+      <version>3.11.2-beta</version>
     </versions>
-    <lastUpdated>20261013135350</lastUpdated>
+    <lastUpdated>20261020104145</lastUpdated>
   </versioning>
 </metadata>

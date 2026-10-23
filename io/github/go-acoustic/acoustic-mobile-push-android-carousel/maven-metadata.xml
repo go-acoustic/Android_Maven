@@ -3,7 +3,7 @@
   <groupId>io.github.go-acoustic</groupId>
   <artifactId>acoustic-mobile-push-android-carousel</artifactId>
   <versioning>
-    <latest>3.11.3-beta</latest>
+    <latest>3.11.4-beta</latest>
     <release>3.10.96</release>
     <versions>
       <version>3.10.89</version>
@@ -17,7 +17,8 @@
       <version>3.11.1-beta</version>
       <version>3.11.2-beta</version>
       <version>3.11.3-beta</version>
+      <version>3.11.4-beta</version>
     </versions>
-    <lastUpdated>20261021141021</lastUpdated>
+    <lastUpdated>20261023082514</lastUpdated>
   </versioning>
 </metadata>

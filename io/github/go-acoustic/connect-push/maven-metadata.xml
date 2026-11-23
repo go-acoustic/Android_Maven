@@ -3,9 +3,8 @@
   <groupId>io.github.go-acoustic</groupId>
   <artifactId>connect-push</artifactId>
   <versioning>
-    <latest>11.2.5-beta</latest>
+    <latest>11.2.6-beta</latest>
     <versions>
-      <version>11.1.40-beta</version>
       <version>11.1.41-beta</version>
       <version>11.1.42-beta</version>
       <version>11.1.43-beta</version>
@@ -15,7 +14,8 @@
       <version>11.2.3-beta</version>
       <version>11.2.4-beta</version>
       <version>11.2.5-beta</version>
+      <version>11.2.6-beta</version>
     </versions>
-    <lastUpdated>20261123160952</lastUpdated>
+    <lastUpdated>20261123173515</lastUpdated>
   </versioning>
 </metadata>
